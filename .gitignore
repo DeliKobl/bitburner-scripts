@@ -2,3 +2,4 @@ BitburnerGoFilesync_linux
 config.toml
 template.ts
 tsconfig.json
+NetscriptDefinitions.d.ts
