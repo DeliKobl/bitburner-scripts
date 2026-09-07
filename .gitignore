@@ -3,3 +3,7 @@ config.toml
 template.ts
 tsconfig.json
 NetscriptDefinitions.d.ts
+node_modules
+bun.lock
+package.json
+eslint.config.mts
