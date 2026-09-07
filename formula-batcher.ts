@@ -12,7 +12,6 @@ export async function main(ns: NS): Promise<void> {
         ['hackThreads', 0],
         ['target', ''],
     ]);
-    const targetServer = config.target === '' ? lib.findBestServerFormula(ns, servers, player) : ns.getServer(String(config.target));
-    ns.tprintf("hack threads = %f", config.hackThreads);
-    ns.tprintf("target server = %s", targetServer.hostname);
+
+
 }
