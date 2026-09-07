@@ -1,6 +1,6 @@
 # meow
 
-aight so like, these are scripts ya. for the game bitburner on steam.
+aight so like, these are scripts ya. for the game [bitburner](https://github.com/bitburner-official/bitburner-src).
 
 here's a brief description of each of them
 
